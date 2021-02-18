@@ -22,6 +22,7 @@ namespace DesktopUI
         int randomNumber;
         bool isInverseMode = false;
         string path = Application.StartupPath;
+        int a = 1;
 
         public Form1()
         {
